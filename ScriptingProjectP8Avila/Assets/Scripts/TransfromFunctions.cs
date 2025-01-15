@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class TransfromFunctions : MonoBehaviour
 {
-    public float moveSpeed = 10f;
+    public float moveSpeed = 20f;
     public float turnSpeed = 50f;
 
 
